@@ -5,6 +5,8 @@
 ## What it does
 
 <!-- One or two sentences: what a visitor can do with this page. -->
+The page show how many museums are in Brittany and list it !
+
 
 ## Data source and licence
 
